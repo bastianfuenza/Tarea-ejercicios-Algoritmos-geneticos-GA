@@ -97,9 +97,9 @@ In case of any question, proposal, etc; you can do it to my email bastian.fuenza
 # Licence
 ### **[Español]**
 
-El documento incluido está licenciado bajo la licencia [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/), y los archivos incluidos están licenciados bajo la licencia [MIT](https://github.com/github/choosealicense.com/blob/gh-pages/LICENSE.md).
+El documento incluido está licenciado bajo la licencia [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/), y los archivos incluidos están licenciados bajo la licencia [MIT](https://opensource.org/licenses/MIT).
 
 
 ### **[English]**
 
-The included document is licensed under the [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license, and the files included are licensed under the [MIT](https://github.com/github/choosealicense.com/blob/gh-pages/LICENSE.md) license. 
+The included document is licensed under the [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license, and the files included are licensed under the [MIT](https://opensource.org/licenses/MIT) license. 
